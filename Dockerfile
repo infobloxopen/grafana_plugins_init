@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/python-39
+FROM python:3-alpine
 
 ARG TARGETOS
 ARG TARGETARCH
