@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/python-39:1-99.1674497380
+FROM python:3-alpine@sha256:9f955672f82a7e7138bcb64bb8352fb0a3025533b8be90a789be5a32526497ca
 
 ARG TARGETOS
 ARG TARGETARCH
