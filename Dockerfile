@@ -1,4 +1,4 @@
-FROM python:3-alpine@sha256:d4e7a02ff532c98a8a8f71aba0b4e8f419faad4a49801e554da6ebeef7b6eed7
+FROM python:3-alpine@sha256:6f873e340e6786787a632c919ecfb1d2301eb33ccfbe9f0d0add16cbc0892116
 
 ARG TARGETOS
 ARG TARGETARCH
